@@ -1,2 +1,3 @@
-LSharp
+LeagueSharp Scripts
+
 ======
